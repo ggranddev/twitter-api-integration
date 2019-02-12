@@ -1,6 +1,6 @@
 # Turing Challenge
 
-This project is a frontend engineer challenge proposed by [Turing.com](Turing.com).
+This project is a frontend engineer challenge proposed.
 
 It consists of a simple responsive UI to visualize the last tweets from @makeschool, @newsycombinator and @ycombinator.
 
